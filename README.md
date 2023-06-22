@@ -39,12 +39,9 @@
         <img src='https://img.shields.io/badge/Instagram-E4405F?&logo=Instagram&logoColor=white&link=https://www.instagram.com/2xxnse0'/>
 </p>
 
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
 <h3 align="center">📊 My Github Stats 📊</h3>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=2unse0&theme=one_dark_pro&show_icons=true"/></a>
