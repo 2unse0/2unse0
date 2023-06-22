@@ -1,12 +1,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A9CBD7&height=200&section=header&text=EunSeo%20Jang&fontSize=90)
+<br/>
+<br/>
 
 <p align="center">
 😊경영과 비즈니스 애널리틱스를 전공하며 데이터 분석가가 되고 싶은 장은서입니다.😊
 </p>
-<br/>
-<br/>
-<br/>
+
 <h3 align="center">Tools💻</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
