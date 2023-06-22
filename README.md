@@ -3,6 +3,7 @@
 
 <h3 align="center">Tools💻</h3>
 <p align="center">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
@@ -14,7 +15,7 @@
 <h3 align="center">Plan📒</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Visual Studio-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=Power BI Code&logoColor=white"/></a>
 </p>
 
 
