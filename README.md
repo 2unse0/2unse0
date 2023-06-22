@@ -26,5 +26,13 @@
 </a>
 <a href='https://www.instagram.com/2xxnse0'>
         <img src='https://img.shields.io/badge/Instagram-E4405F?&logo=Instagram&logoColor=white&link=https://www.instagram.com/2xxnse0'/>
+</p>
+
+
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2unse0&show_icons=true&theme=radical)
+</div>
+
+        
 
 
