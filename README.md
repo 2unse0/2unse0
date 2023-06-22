@@ -49,7 +49,7 @@
 <br/>
 <br/>
 <p align="center"> 
-<img scr="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={2unse0}&theme={nord_bright}"/></>a>
+<img scr="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={2unse0}&theme={nord_bright}"/></>a>
 </p>
 
 
