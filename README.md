@@ -47,8 +47,8 @@
 
 <h3 align="center">📊 My Github Stats 📊</h3>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=2unse0&theme=one_dark_pro&show_icons=true"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=2unse0&theme=one_dark_pro&show_icons=true&include_all_commits=true"/></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SeongilHeo&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+
 
