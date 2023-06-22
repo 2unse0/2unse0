@@ -15,7 +15,7 @@
 <h3 align="center">Plan📒</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Visual Studio-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=Power BI Code&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=Power BICode&logoColor=white"/></a>
 </p>
 
 
