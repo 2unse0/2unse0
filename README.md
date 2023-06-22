@@ -48,7 +48,8 @@
 <br/>
 <br/>
 <br/>
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={2unse0}&theme={nord_bright}
+<p align="center"> 
+<img scr="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={2unse0}&theme={nord_bright}"
 </p>
 
 
