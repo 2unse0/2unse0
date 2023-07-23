@@ -1,7 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A9CBD7&height=200&section=header&text=EunSeo%20Jang&fontSize=90)
 
-<p align="center">😊경영과 비즈니스애널리틱스를 전공하며 데이터분석가가 되고 싶은 장은서입니다.😊</p>
 
 <br/>
 <br/>
